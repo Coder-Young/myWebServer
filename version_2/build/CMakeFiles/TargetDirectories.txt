@@ -1,0 +1,3 @@
+/home/yzq/github/myWebServer/version_2/build/CMakeFiles/myHttpServer.dir
+/home/yzq/github/myWebServer/version_2/build/CMakeFiles/edit_cache.dir
+/home/yzq/github/myWebServer/version_2/build/CMakeFiles/rebuild_cache.dir
